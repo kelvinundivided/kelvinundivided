@@ -15,6 +15,13 @@ During the sign-up process, you may confidently use your actual email address; r
 
 When setting up your Wire account, it's crucial to **avoid using a personal photo** for your user logo or image. This is an important step in preserving your anonymity. Instead, opt for something generic and non-identifiable, such as a landscape, an abstract design, or even the default avatar provided. Remember, every detail counts when it comes to maintaining your privacy. Stay vigilant and enjoy the secure communication that Wire offers.
 
-Always exercise caution: any message you send could potentially be read on the recipient's screen. Therefore, never disclose your real name, nor share images of yourself or your surroundings. Your vigilance is the final layer of security in ensuring your digital footprint remains a mystery. Embrace the power of Wire, communicate freely, and stay secure.
+> [!CAUTION]
+> Always exercise caution: any message you send could potentially be read on the recipient's screen. Therefore, never disclose your real name, nor share images of yourself or your surroundings. Your vigilance is the final layer of security in ensuring your digital footprint remains anonymous. 
 
 Once your account is created you can start a conversation with Kelvin by sending a message to @lilasrevenge 
+
+> [!WARNING]
+> Anyone communicating with me should assume someone else is always watching (or recording), so never disclose anything that can be traced back to you alone. Never share your name or anything else identifiable!
+
+> [!IMPORTANT]
+> ANY INFORMATION YOU SHARE WITH ME THAT CAN BE USED TO STOP A MURDER OR MASSACRE WILL BE USED TO DO SO. I will never disclose my source.
