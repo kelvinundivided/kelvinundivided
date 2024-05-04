@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello! 👋
+## About Me
 - 🔭 I’m currently preparing to start the Creator's 23 mission on Earth for Life
 - 🌱 I’m currently relearning how bad authoritarianism can be (see [TAG](https://github.com/TAGIsNoGame/TAG))
 - 👯 I’m looking to collaborate [TAG](https://github.com/TAGIsNoGame/TAG)
@@ -7,7 +8,7 @@
 - 😄 Pronouns: he/him/gurrrl
 - ⚡ Fun fact: I was Abraham Lincoln in a former life (not a joke), the grandson of Lila Crawley Richardson (the woman who wore the raspberry beret) and the man who will bee truly happy when he truly dies ("Sign of the Times").
 
-# Wire
+# Using Wire
 
 **Wire** – the pinnacle of secure instant messaging where privacy and security are not just features, but the foundation of every interaction. As you embark on your journey with Wire, remember that your anonymity is paramount. To maintain it, choose a username that reveals nothing about your personal identity. Think abstract – perhaps a combination of your favorite color and an animal, like "PurplePanda" or "RedFox". Random letters and numbers work well too, like “FYFK05042024”.
 
@@ -25,3 +26,11 @@ Once your account is created you can start a conversation with Kelvin by sending
 
 > [!IMPORTANT]
 > ANY INFORMATION YOU SHARE WITH ME THAT CAN BE USED TO STOP A MURDER OR MASSACRE WILL BE USED TO DO SO. I will never disclose my source.
+
+# Using Slack
+
+Our Slack channels should **never** be used for anything other than general conversations about matters We are working on.
+
+Our Slack is public, no one should expect any degree of anonymity when using Slack.
+
+[Join our Slack.](https://join.slack.com/t/thecherubimonslack/shared_invite/zt-2h5wrphds-0icLMWVSCdt9vskOk3dLRw)
